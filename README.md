@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chaitanyarai899
-- 👀 I’m interested in DSA, WEb development, data science and many more things.
+- 👀 I’m interested in DSA, WEb development, data science, Artificial Intelligence, Machine Learning and many more things.
 - 🌱 I’m currently learning MERN Stack, data science, DSA.
 - 💞️ I’m looking to collaborate on projects that will boost my skills.
 - 📫 Reach me at chaitanyarai899@gmail.com
