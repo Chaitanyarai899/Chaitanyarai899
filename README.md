@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Hi, I’m @Chaitanyarai899<br>- 👀 I’m interested in Backend Development, DSA, Web development, data science, Artificial Intelligence, Machine Learning and many more things.<br>- 🌱 I’m experienced in Backend Development(using Express.js, flask, Django, Springboot etc) and currently exploring Machine Learning, Data science and DSA.<br>- 💞️ I’m looking to collaborate on open source projects that will boost my skills and help me contribute to the open source ecosystem.<br>- 📫 Reach me at chaitanyarai899@gmail.com<br>- Few of my projects are hosted at these links: https://yourcafereviews.onrender.app , https://elysian-edc.com, https://spacechat-jow1.onrender.com/, https://twitterNLPwebApp.onrender.com/
+👋 Hi, I’m @Chaitanyarai899<br>- 👀 I’m interested in Backend Development, DSA, Web development, data science, Artificial Intelligence, Machine Learning and many more things.<br>- 🌱 I’m experienced in Backend Development(using Express.js, flask, Django, Springboot etc) and currently exploring Machine Learning, Data science and DSA.<br>- 💞️ I’m looking to collaborate on open source projects that will boost my skills and help me contribute to the open source ecosystem.<br>- 📫 Reach me at chaitanyarai899@gmail.com<br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Chaitanyarai899) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanya-rai-369881102) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Chaitanya.rai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanya-rai-369881102) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23323330.svg?style=for-the-badge&logo=firebase&logoColor=%23F7DF1E)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
